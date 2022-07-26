@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "Vazir-FD";
+  src: local("RVazir-FD"), url(./fonts/Vazir-FD.woff);
+}
+
+body {
+  font-family: "Vazir-FD";
+}

@@ -1,0 +1,32 @@
+.Form {
+  text-align: center;
+}
+.Form > * {
+  margin: 10px;
+  height: 2rem;
+  outline: none;
+}
+
+.Form > *:not(.Count) {
+  border: rgb(1, 78, 61) solid 1px;
+  border-radius: 5px;
+}
+
+.Input,
+.Submit {
+  font-family: inherit;
+}
+
+.Submit {
+  background-color: rgb(176, 238, 225);
+  cursor: pointer;
+  width: 3.5rem;
+}
+
+.Count {
+  margin-left: 0;
+}
+
+.CountNum {
+  text-align: center;
+}

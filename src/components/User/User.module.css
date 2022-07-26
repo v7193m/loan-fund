@@ -1,0 +1,18 @@
+.User {
+  background-color: rgb(176, 238, 225);
+  text-align: center;
+  border: rgb(1, 78, 61) solid 1px;
+  border-radius: 5px;
+  padding: 5px 0;
+}
+
+.Name {
+  padding-left: 20px;
+}
+
+.Remove {
+  font-family: inherit;
+  padding: 5px;
+  margin: 0 10px;
+  cursor: pointer;
+}

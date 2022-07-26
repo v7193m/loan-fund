@@ -1,0 +1,23 @@
+.Container {
+  margin: 1.5rem;
+  border: 2px solid red;
+  border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.Container > * {
+  margin: 10px auto;
+}
+
+.Btn {
+  font-family: inherit;
+}
+
+.Winner {
+  background-color: rgb(176, 238, 225);
+  text-align: center;
+  border: rgb(1, 78, 61) solid 1px;
+  border-radius: 5px;
+  width: 25%;
+}
