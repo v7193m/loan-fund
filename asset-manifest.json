@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/loan-fund/static/css/main.6c15fede.chunk.css",
+    "main.js": "/loan-fund/static/js/main.1986d3c9.chunk.js",
+    "main.js.map": "/loan-fund/static/js/main.1986d3c9.chunk.js.map",
+    "runtime-main.js": "/loan-fund/static/js/runtime-main.13fddd2a.js",
+    "runtime-main.js.map": "/loan-fund/static/js/runtime-main.13fddd2a.js.map",
+    "static/js/2.16e04fa7.chunk.js": "/loan-fund/static/js/2.16e04fa7.chunk.js",
+    "static/js/2.16e04fa7.chunk.js.map": "/loan-fund/static/js/2.16e04fa7.chunk.js.map",
+    "static/js/3.e13b7b34.chunk.js": "/loan-fund/static/js/3.e13b7b34.chunk.js",
+    "static/js/3.e13b7b34.chunk.js.map": "/loan-fund/static/js/3.e13b7b34.chunk.js.map",
+    "index.html": "/loan-fund/index.html",
+    "static/css/main.6c15fede.chunk.css.map": "/loan-fund/static/css/main.6c15fede.chunk.css.map",
+    "static/js/2.16e04fa7.chunk.js.LICENSE.txt": "/loan-fund/static/js/2.16e04fa7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/loan-fund/static/media/Vazir-FD.73087891.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13fddd2a.js",
+    "static/js/2.16e04fa7.chunk.js",
+    "static/css/main.6c15fede.chunk.css",
+    "static/js/main.1986d3c9.chunk.js"
+  ]
+}
